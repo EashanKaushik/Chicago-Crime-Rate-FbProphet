@@ -1,0 +1,9 @@
+*.h5
+__pycache__/
+**/*.ipynb_checkpoints/
+udemy/
+logs/
+.vscode/
+try.html
+try-2.html
+readme/
