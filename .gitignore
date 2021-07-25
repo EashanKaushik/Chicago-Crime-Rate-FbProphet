@@ -4,6 +4,5 @@ __pycache__/
 udemy/
 logs/
 .vscode/
-try.html
-try-2.html
 readme/
+*.csv
